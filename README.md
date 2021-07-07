@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Wojtek
 
 Currently fourth year student at PJAIT in Gdańsk. I'm truly passionate about programming, now mastering my Python and DJango skills as Junior Software Engineer! I'm also working on my own cryptocurrency whose blockchain will act as text chat.
-
 If I'm not working, I'm either training, cooking or playing video games! 👑
+
+
 
 #### Stack
 Languages:
